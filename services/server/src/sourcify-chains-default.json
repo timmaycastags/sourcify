@@ -1301,7 +1301,7 @@
     "supported": true,
     "fetchContractCreationTxUsing": {
       "blockscoutScrape": {
-        "url": "https://explorer.zeniq.net/"
+        "url": "https://zeniqscan.com/"
       }
     }
   }
